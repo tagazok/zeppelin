@@ -1,50 +1,70 @@
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  track: android
-  subtype: workshop
+  title: "«Le BigData à l'ère du Cloud»"
+  description: "Volume de données et création de valeur : le Big data est un challenge pour les entreprises. Les outils classiques de gestion de data warehouse ne suffisent plus, il faut changer d'ère et passer à l'ère du Cloud.<br />La session sera illustrée avec Google Pub/Sub, Dataflow, BigQuery et Prediction API."
+  track: cloud
+  subtype: talk
   speakers: [3]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: fr
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-  track: cloud
+  title: "Machine learning et régulation numérique"
+  description: "<p>Le machine learning est la science qui permet à un algorithme d’apprendre sans avoir été explicitement programmé pour cela. Elle est utilisée par les acteurs de la nouvelle économie pour le traitement de gros volumes de données, dans la traduction automatique, la reconnaissance de la parole, la classification de consommateur, la construction de réputation, ou la prévision des trafics. C’est la \"régulation numérique\".</p><p>Nous parlerons des champs d’application du machine learning par les gros acteurs du numérique, de ses fondements mathématiques, des grands familles d’algorithmes et des outils disponibles pour mettre en pratique.</p><p>Découvrez les bases pour comprendre cette science et mesurer le potentiel des possibilités de son utilisation.</p>"
+  track: discovery
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [3]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: fr
 -
   id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  track: android
+  title: "Créez vos propres générateurs Yeoman"
+  description: "<p>Grâce à Yeoman, vous disposez d'un générateur pour tout type de projet Web, qu'il soit basé sur AngularJs, Backbone ou Twitter Bootstrap. Mais peut-être vous êtes-vous rendu compte que les générateurs existants ne correspondaient pas tout à fait à vos besoins ?</p><p>Vous n'utilisez pas SASS ? Vous ne voulez pas le support de CoffeeScript ? Et si vous voulez Foundation au lieu de Twitter Bootstrap ? Nous allons voir ensemble comment Yeoman vous permet de créer et de tester vos propres générateurs qui vous permettront de générer un projet et un workflow Front End configurés aux petits oignons.</p>"
+  track: web
   subtype: presentation
+  speakers: [8]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: fr
+-
+  id: 004
+  title: "The Dart side of disruption"
+  description: "<p>Cette session est l’occasion d’apprendre les technologies web innovantes, le langage Dart et la librairie Polymer.</p><p>Dart permet de construire des applications web modernes avec un nouveau langage, des bibliothèques de base et des outils comme un gestionnaire de paquets, un éditeur et un compilateur vers JavaScript.</p><p>Polymer est une librairie émergente permettant de créer des web components basés sur les nouveaux standards HTML5.</p><p>Après une rapide présentation vous commencerez par créer un premier programme en pure Dart puis une application qui tue avec Polymer.dart.</p>"
+  track: web
+  subtype: talk
+  speakers: [5, 7]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: fr
+-
+  id: 005
+  title: "Docker in the cloud with diamonds"
+  description: "<p>On parle beaucoup de Docker en ce moment. Je vais tenter de vous expliquer comment fonctionne Docker comme j'aurais aimé qu'on me l'explique.</p><p>Nous allons apprendre à prendre en main Docker pour packager une application web java 8, découpée en plusieurs conteneurs, que nous déploierons sur la Google Cloud Platform en utilisant Compute Engine.</p>"
+  track: cloud
+  subtype: talk
   speakers: [4]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: en
+  language: fr
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  id: 006
+  title: "Le Futur du Responsive Web Design"
+  description: "Le Responsive Web Design prend peu à peu forme et consistance au fil du temps et de nos expériences sur le terrain.<br />Dans quelques mois (années ?), les spécifications officielles seront bien plus abouties et stabilisées au sein de nos navigateurs. Cette conférence fournit un état des lieux des spécifications modernes ou futuristes HTML5, CSS3, JavaScript sur le thème du Responsive (positionnement avancés, viewport, hautes définitions, connectivité, luminosité, SVG, etc.)."
   track: web
-  subtype: keynote
+  subtype: talk
+  speakers: [9]
+  startTimeStamp: 1382774400
+  endTimestamp: 1382796000
+  language: fr
+-
+  id: 007
+  title: "Introduction to Google Apps Script"
+  description: "Do more. With Google.<br />With Apps Script, you can create add-ons for Google Sheets, Docs, or Forms, automate your workflow, integrate with external APIs, and more.<br />During this talk, you will discover how easy it is to harness the power of Apps Script to build useful apps."
+  track: web
+  subtype: talk
   speakers: [6]
   startTimeStamp: 1382774400
   endTimestamp: 1382796000
-  language: uk
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  track: web
-  subtype: keynote
-  speakers: [7]
-  startTimeStamp: 1382774400
-  endTimestamp: 1382796000
-  language: en
+  language: fr
