@@ -6,10 +6,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site settings
 title: GDG DevFest Paris 2014
-email: lviv@gdg.org.ua
+email: leplus.olivier@gmail.com
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdg-ukraine.github.io"
+url: "http://devfest.gdgparis.fr"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@GDGParis"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -62,9 +62,9 @@ showSessions: false
 thumbnailsFolder: /img/speakers/
 
 # Footer
-gplusFollowUsUrl: "https://plus.google.com/b/102444623953913144164"
-twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGLviv"
-fbFollowUsUrl: "https://facebook.com/GDGLviv"
+gplusFollowUsUrl: "https://plus.google.com/+GDGParis"
+twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGParis"
+#fbFollowUsUrl: "https://facebook.com/GDGLviv"
 
 # Blog
 blogCommentsEnabled: false
