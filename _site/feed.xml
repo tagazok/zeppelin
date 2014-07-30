@@ -3,8 +3,8 @@
   <channel>
     <title>GDG DevFest Paris 2014</title>
     <description>GDG DevFest is a set of events all around the world</description>
-    <link>http://gdg-ukraine.github.io/zeppelin/</link>
-    <atom:link href="http://gdg-ukraine.github.io/zeppelin/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://devfest.gdgparis.fr/zeppelin/</link>
+    <atom:link href="http://devfest.gdgparis.fr/zeppelin/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Call for Papers</title>
@@ -71,7 +71,7 @@
   &lt;li&gt;Go (as a language for a Cloud Ready Apps)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;please-submit-your-proposals-herehttpbitlydfua-c4p&quot;&gt;Please submit your proposals &lt;a href=&quot;http://bit.ly/dfua-c4p&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
+&lt;h4 id=&quot;please-submit-your-proposals-herehttpsdocsgooglecomformsd1mfxntoreqfzp98syrp3nf2jheemkqnnbrcqtyfsxvkkviewform&quot;&gt;Please submit your proposals &lt;a href=&quot;https://docs.google.com/forms/d/1mfxnToreqFZp98sYrp3NF2jheEmkqnNbRcQTYfsXVKk/viewform&quot;&gt;here&lt;/a&gt;.&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Deadline&lt;/strong&gt; is September 1, 2014&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; There is no guarantee that a submission will be put onto the conference agenda!&lt;br /&gt;&lt;/p&gt;
@@ -79,11 +79,11 @@
 &lt;p&gt;The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.&lt;br /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;any-questions&quot;&gt;Any questions?&lt;/h4&gt;
-&lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&amp;#046;&amp;#117;&amp;#097;&quot;&gt;&amp;#100;&amp;#101;&amp;#118;&amp;#102;&amp;#101;&amp;#115;&amp;#116;&amp;#064;&amp;#103;&amp;#100;&amp;#103;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&amp;#046;&amp;#117;&amp;#097;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Email organizers at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#101;&amp;#112;&amp;#108;&amp;#117;&amp;#115;&amp;#046;&amp;#111;&amp;#108;&amp;#105;&amp;#118;&amp;#105;&amp;#101;&amp;#114;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#108;&amp;#101;&amp;#112;&amp;#108;&amp;#117;&amp;#115;&amp;#046;&amp;#111;&amp;#108;&amp;#105;&amp;#118;&amp;#105;&amp;#101;&amp;#114;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Jul 2014 11:00:00 +0200</pubDate>
-        <link>http://gdg-ukraine.github.io/zeppelin/blog/call-for-papers</link>
-        <guid isPermaLink="true">http://gdg-ukraine.github.io/zeppelin/blog/call-for-papers</guid>
+        <link>http://devfest.gdgparis.fr/zeppelin/blog/call-for-papers</link>
+        <guid isPermaLink="true">http://devfest.gdgparis.fr/zeppelin/blog/call-for-papers</guid>
       </item>
     
       <item>
@@ -114,8 +114,8 @@ the final missing parts to the biggest Google related event in Paris - &lt;a hre
 
 </description>
         <pubDate>Tue, 29 Jul 2014 10:00:00 +0200</pubDate>
-        <link>http://gdg-ukraine.github.io/zeppelin/blog/hello-world</link>
-        <guid isPermaLink="true">http://gdg-ukraine.github.io/zeppelin/blog/hello-world</guid>
+        <link>http://devfest.gdgparis.fr/zeppelin/blog/hello-world</link>
+        <guid isPermaLink="true">http://devfest.gdgparis.fr/zeppelin/blog/hello-world</guid>
       </item>
     
   </channel>
