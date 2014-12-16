@@ -61,8 +61,8 @@ eventDate: "30 janvier 2015"
 typeoutTextValues: '"", "Conference", "LiveCode", "Season", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/devfestparis2014cfp", text: "Become a speaker"}
+ # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "A propos du GDG DevFest"
