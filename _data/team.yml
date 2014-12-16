@@ -33,10 +33,10 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+olivierleplus"}
     - {name: "twitter", link: "https://twitter.com/tagazok"}
-
-id: 2
-  name: "Olivier"
-  surname: "Leplus"
+-
+  id: 3
+  name: "Xavier"
+  surname: "Loup"
   title: "Trésorier du GDG Paris"
   thumbnailUrl: xloup.jpg
   team: true
