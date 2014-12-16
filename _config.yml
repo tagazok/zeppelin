@@ -93,11 +93,11 @@ locationBlockTitle: "Location"
 eventLocationName: "ECE Paris"
 eventLocationLink: "http://ece.fr"
 eventStreetAddress: "37 Quai de Grenelle"
-eventAddressLocality: "Paris"
+eventAddressLocality: "75015 Paris"
 eventAddressLocalityRegion: ""
-eventPostalCode: "75015"
+eventPostalCode: ""
 eventAddressCountry: "France"
-eventStartTime: "2015-01-30T10:00"
+eventStartTime: "2015-01-30T8:30"
 eventDoorTime: "08:30"
 eventEndTime: "2015-01-30T18:00"
 eventPlaceCoordinates: "48.851753, 2.287095"
@@ -175,7 +175,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/+GDGParis/posts", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGParis", icon: "twitter"}
+ - {link: "https://twitter.com/GDGParis", icon: "twitter"}
  # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
