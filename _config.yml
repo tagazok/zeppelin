@@ -68,7 +68,7 @@ heroButtons:
 aboutTitle: "A propos du GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "Des professionnels des technologies Google et bien plus se réunissent rien que pour vous. Des speakers hors du commun and a lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Des démonstrations, des hands-on. Venez expérimentez votre futur technologie favorite!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Des démonstrations, des hands-on. Venez expérimentez votre future technologie favorite!" }
  - {title: "Networking", image: "hackathon.jpg", text: "Venez partager vos expériences avec la communauté. Un grand rassemblement de passionés de technologies vous attend!" }
 
 # Statistic Block

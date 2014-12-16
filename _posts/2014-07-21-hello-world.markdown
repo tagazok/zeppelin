@@ -9,7 +9,7 @@ We're very excited - not just because of the inordinate amount of caffeine based
 but also because our team are putting together
 the final missing parts to the biggest Google related event in Paris - [GDG DevFest 2015](http://devfest.gdgparis.com/).
 
-So should you also be excited? Well yes... and here's why!
+So should you also be excited ? Well yes... and here's why!
 
 * **Attendance**: we're expecting over 300 attendees
 * **Topic**: more than 20 hours of pure Google technologies
