@@ -13,7 +13,7 @@
   id: 1
   name: "Benjamin"
   surname: "Lacroix"
-  title: "Organisateur"
+  title: "Secrétaire du GDG Paris"
   thumbnailUrl: blacroix.jpg
   team: true
   ribbon:
@@ -44,3 +44,14 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+XavierLoup"}
+-
+  id: 4
+  name: "Olivier"
+  surname: "Thomas"
+  title: "Organisateur"
+  thumbnailUrl: othomas.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+OlivierThomas1"}
