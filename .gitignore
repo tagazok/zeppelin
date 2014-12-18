@@ -10,4 +10,5 @@ _site/
 ### Windows ###
 # Windows image file caches
 Thumbs.db
-ehthumbs.db
+*.DS_Store
+.DS_Store
