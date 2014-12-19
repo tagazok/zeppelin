@@ -6,7 +6,7 @@
   title: ""
   bio: "Didier Girard a un PhD en Machine Learning, il est Directeur des Opérations chez SFEIR et Google Developer Expert. Il utilise les technologies cloud depuis 2008 et le BigData depuis 2010."
   thumbnailUrl: dgirard.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
@@ -20,7 +20,7 @@
   title: ""
   bio: "David Gageot est développeur indépendant et Java Champion. Sa passion ? L'écriture de logiciels pointus mais simples. Il a pour leitmotiv d'être un facilitateur qui, par sa créativité et son expertise, aide les équipes à être plus innovantes et plus efficaces."
   thumbnailUrl: dgageot.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
@@ -39,20 +39,20 @@
   rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/+RomainVialard-public"}
--
-  id: 6
-  name: "Romain"
-  surname: "Vialard"
-  company: "Revevol"
-  title: ""
-  bio: "After graduating from a business school, I discovered Google Apps Script and the wonderful world of automations. Since, I have created many apps (like Gmail Meter, Yet Another Mail Merge and Awesome Tables) and code libraries. I've also trained a lot of people to develop apps through Apps Script."
-  thumbnailUrl: rvialard.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+# -
+#   id: 6
+#   name: "Romain"
+#   surname: "Vialard"
+#   company: "Revevol"
+#   title: ""
+#   bio: "After graduating from a business school, I discovered Google Apps Script and the wonderful world of automations. Since, I have created many apps (like Gmail Meter, Yet Another Mail Merge and Awesome Tables) and code libraries. I've also trained a lot of people to develop apps through Apps Script."
+#   thumbnailUrl: rvialard.jpg
+#   rockstar: false
+#   ribbon:
+#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#   social:
+#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 -
   id: 7
   name: "Nicolas"
@@ -86,3 +86,16 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/goetter"}
+-
+  id: 10
+  name: "Eyal"
+  surname: "LEZMY"
+  company: "Genymobile"
+  title: ""
+  bio: "- Software Engineer at Genymobile,<br />- Treasurer at the Paris Android User Group<br /><br />- Google Developer Expert Android<br />Working on Android since 2009. After several R&D projects at french internet providers, Samsung in the Android B2B team, and then as Android set-top box developer for an hotel chain, I'm currently working on Genymotion, a fast emulator."
+  thumbnailUrl: elezmy.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY/"}
+    - {name: "twitter", link: "https://twitter.com/Eyal_Lezmy"}
+    - {name: "site", link: "http://eyal.fr"}
