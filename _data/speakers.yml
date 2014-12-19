@@ -39,20 +39,20 @@
   rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/+RomainVialard-public"}
-# -
-#   id: 6
-#   name: "Romain"
-#   surname: "Vialard"
-#   company: "Revevol"
-#   title: ""
-#   bio: "After graduating from a business school, I discovered Google Apps Script and the wonderful world of automations. Since, I have created many apps (like Gmail Meter, Yet Another Mail Merge and Awesome Tables) and code libraries. I've also trained a lot of people to develop apps through Apps Script."
-#   thumbnailUrl: rvialard.jpg
-#   rockstar: false
-#   ribbon:
-#     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-#     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+-
+  id: 6
+  name: "Romain"
+  surname: "Vialard"
+  company: "Revevol"
+  title: ""
+  bio: "After graduating from a business school, I discovered Google Apps Script and the wonderful world of automations. Since, I have created many apps (like Gmail Meter, Yet Another Mail Merge and Awesome Tables) and code libraries. I've also trained a lot of people to develop apps through Apps Script."
+  thumbnailUrl: rvialard.jpg
+  rockstar: false
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 -
   id: 7
   name: "Nicolas"
@@ -62,19 +62,6 @@
   bio: "Développeur Java pour Sfeir le jour, Dart Knight codeur la nuit. Séduit par le langage, il s'y intéresse depuis plus d'un an en évangélisant les Jug et GDG avec Guillaume Girou. Avec l’aide de Vincent Bostoen, le trio anime une page Google+ dédiée à Dart."
   thumbnailUrl: nfrancois.jpg
   rockstar: false
--
-  id: 8
-  name: "Thierry"
-  surname: "Lau"
-  company: "SFEIR"
-  title: ""
-  bio: "Développeur Front End chez [SFΞIR], Thierry est passionné par HTML5, CSS3, JavaScript et plus particulièrement fan d'AngularJS car il est persuadé qu'il aide à développer des applications Web modernes, maintenables de manière la plus simple, rapide et efficace possible.<br />Pour cela, il s’est également intéressé aux outils qui viennent armer les développeurs Web modernes tels que Grunt, Yeoman, Bower, Developer tools de Chrome. Il a créé ngTailor, un générateur Yeoman pour un project et workflow AngularJS sur mesure.<br />Il est également créateur et co-modérateur de la communauté française HTML5 * CSS3 [FR] sur Google+ et anime également la page Google+ HTML5 * CSS3 - ʕ๏̮๏ʔ, deux endroits où vous pouvez venir partager avec lui sa passion des technologies du Web."
-  thumbnailUrl: tlau.jpg
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+ThierryLAU"}
-    - {name: "twitter", link: "https://twitter.com/laut3rry"}
-    - {name: "github", link: "https://github.com/lauterry"}
 -
   id: 9
   name: "Raphaël"
