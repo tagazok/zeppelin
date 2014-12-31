@@ -1,58 +1,66 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Pause café"
   place: "Hall"
   service: true
 -
   id: 503
-  title: "Lunch Break"
+  title: "Pause déjeuner"
   place: "Dining room"
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Machine learning et régulation numérique"
+  description: "Le machine learning est la science qui permet à un algorithme d’apprendre sans avoir été explicitement programmé pour cela. Elle est utilisée par les acteurs de la nouvelle économie pour le traitement de gros volumes de données, dans la traduction automatique, la reconnaissance de la parole, la classification de consommateur, la construction de réputation, ou la prévision des trafics. C’est la \"régulation numérique\".<br /><br />Nous parlerons des champs d’application du machine learning par les gros acteurs du numérique, de ses fondements mathématiques, des grands familles d’algorithmes et des outils disponibles pour mettre en pratique.<br /><br/>Découvrez les bases pour comprendre cette science et mesurer le potentiel des possibilités de son utilisation."
+  subtype: présentation
+  speakers: [3]
+  language: fr
+  complexity: "Débutant"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Docker in the cloud with diamonds"
+  description: "On parle beaucoup de Docker en ce moment. Je vais tenter de vous expliquer comment fonctionne Docker comme j'aurais aimé qu'on me l'explique.<br /><br />Nous allons apprendre à prendre en main Docker pour packager une application web java 8, découpée en plusieurs conteneurs, que nous déploierons sur la Google Cloud Platform en utilisant Compute Engine."
+  subtype: présentation
+  speakers: [4]
+  language: fr
+  complexity: "Débutant"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "The Dart side of disruption"
+  description: "Cette session est l’occasion d’apprendre les technologies web innovantes, le langage Dart et la librairie Polymer.<br />Dart permet de construire des applications web modernes avec un nouveau langage, des bibliothèques de base et des outils comme un gestionnaire de paquets, un éditeur et un compilateur vers JavaScript.<br /><br />Polymer est une librairie émergente permettant de créer des web components basés sur les nouveaux standards HTML5.<br /><br /Après une rapide présentation vous commencerez par créer un premier programme en pure Dart puis une application qui tue avec Polymer.dart."
+  subtype: présentation
+  speakers: [5,7]
+  language: fr
+  complexity: "Débutant"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "Introduction to Google Apps Script"
+  description: "Do more. With Google.<br />With Apps Script, you can create add-ons for Google Sheets, Docs, or Forms, automate your workflow, integrate with external APIs, and more.<br />During this talk, you will discover how easy it is to harness the power of Apps Script to build useful apps."
+  subtype: présentation
   speakers: [6]
-  language: uk
+  language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Flexbox Révolution"
+  description: "La spécification CSS3 Flexbox rassemble un sacré paquet de bonnes pratiques et répond aux attentes des webdesigners et intégrateurs accumulées depuis de longues années.<br /><br /Dès aujourd’hui (ou dans un avenir proche selon votre cible), elle constitue sans aucun doute la méthode de positionnement la plus pratique et polyvalente qui n’ait jamais existé en CSS.<br /><br />Alors, jouable ou pas ? En prod ou ça dépend ? Sommes-nous prêts pour la révolution CSS qu'est Flexbox ?"
   subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [9]
+  language: fr
+  complexity: "Intermédiaire"
+-
+  id: 006
+  title: "«Le BigData à l'ère du Cloud»"
+  description: "Volume de données et création de valeur : le Big data est un challenge pour les entreprises. Les outils classiques de gestion de data warehouse ne suffisent plus, il faut changer d'ère et passer à l'ère du Cloud.<br />La session sera illustrée avec Google Pub/Sub, Dataflow, BigQuery et Prediction API."
+  subtype: présentation
+  speakers: [3]
+  language: fr
+  complexity: "Intermédiaire"
+-
+  id: 007
+  title: "Tests étendus pour contruire des applications Android robustes, avec Genymotion"
+  description: "Les application Android sont de plus en riches. Les tests qualités deviennent donc de plus en plus primordiaux et il est important de qu'ils soient les plus complets possibles.<br /><br />Durant cette session nous vous présenterons comment il est facile d'utiliser Genymotion, ses APIs Java (pour les tests unitaires), et ses outils de contrôle scriptables (en ligne de commande et via Gradle) pour améliorer vos tests et votre système d'intégration continue."
+  subtype: présentation
+  speakers: [10]
+  language: fr
+  complexity: "Intermédiaire"
