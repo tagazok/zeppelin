@@ -92,7 +92,7 @@ rockstarSpeakersButtonText: "Voir tous les speakers"
 locationBlockTitle: "Location"
 eventLocationName: "ECE Paris"
 eventLocationLink: "http://ece.fr"
-eventStreetAddress: "37 Quai de Grenelle"
+eventStreetAddress: "10 rue Sextius Michel"
 eventAddressLocality: "75015 Paris"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
@@ -201,7 +201,7 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around Paris"
 directionDetailsCards:
- - {title: "Where", information: 'ECE Paris<br />Immeuble Pollux<br />37, Quai de Grenelle, 75015 Paris.'}
+ - {title: "Where", information: 'ECE Paris<br />Immeuble Pollux<br />10 rue Sextius Michel, 75015 Paris.'}
  - {title: "From the Airport", information: 'This is an overview of how to travel from Charles de Gaulle-CDG Airport to ECE Paris by city train (RER B):<br />RER B from Aeroport Charles de Gaulle to Saint-Michel Notre-Dame.<br />RER C from Saint-Michel Notre-Dame to Champs de Mars-Tour Eiffel'}
  - {title: "Public Transit", information: 'Google Transit is available in Paris. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Paris.'}
 directionDetailsWideCards:
