@@ -1,23 +1,13 @@
-- 
+-
   group: "General sponsor"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
-- 
-  group: "Information partners"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+  elements:
+    - {name: "Google", description: "Google", link: "https://www.google.fr/intl/fr/about/", imageUrl: "google.svg"}
+-
+  group: "Gold sponsors"
+  elements:
+    - {name: "Cirruseo", description: "Enterprise Optimization", link: "http://www.cirruseo.com/", imageUrl: "cirruseo.jpg", width: "120px"}
+    - {name: "Lumapps", description: "Google cloud platform experts", link: "http://www.lumapps.com/", imageUrl: "lumapps.jpg", width: "200px"}
+-
+  group: "Silver sponsors"
+  elements:
+    - {name: "Xebia", description: "Xebia France", link: "http://www.xebia.fr", imageUrl: "xebia.jpg"}
