@@ -13,7 +13,7 @@ So should you also be excited ? Well yes... and here's why!
 
 * **Attendance**: we're expecting over 300 attendees
 * **Topic**: more than 20 hours of pure Google technologies
-* **Date**: 28 of November
+* **Date**: January 30
 * **Speakers**: we're in the process of finalising the list of speakers
 
 but we've already secured a first batch of experts:
@@ -22,4 +22,3 @@ but we've already secured a first batch of experts:
 * **David Gageot** - Google Developer Expert in Google Cloud Platform<br>
 * **Romain Vialard** - Google Developer Expert in Google Apps Script<br>
 * **Eyal Lezmy** - Google Developer Expert in Android and member of the Paris Android User Group<br>
-
