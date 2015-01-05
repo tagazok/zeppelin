@@ -5,4 +5,4 @@
 -
   group: "Co-organizer"
   elements:
-    - {name: "ECE", description: "ECE Paris- Ecole Centrale d'Electronique", link: "http://ece.fr", imageUrl: "ece.png"}
+    - {name: "ECE", description: "ECE Paris- Ecole Centrale d'Electronique", link: "http://ece.fr", imageUrl: "ece.jpg"}
