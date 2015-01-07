@@ -78,6 +78,8 @@
   name: "Eyal"
   surname: "LEZMY"
   company: "Genymobile"
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   title: ""
   bio: "- Software Engineer at Genymobile,<br />- Treasurer at the Paris Android User Group<br /><br />- Google Developer Expert Android<br />Working on Android since 2009. After several R&D projects at french internet providers, Samsung in the Android B2B team, and then as Android set-top box developer for an hotel chain, I'm currently working on Genymotion, a fast emulator."
   thumbnailUrl: elezmy.jpg
