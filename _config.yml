@@ -136,8 +136,8 @@ ticketsInfo: "Votre ticket vous donne accès à toutes les conférences et au d�
 ticketsOffers:
  -
   name: "Prix"
-  price: "10"
-  priceCurrency: "EURO"
+  price: "5"
+  priceCurrency: "EUROS"
   ticketsNumber: "300"
   buyButtonLink: "http://www.meetup.com/gdg-paris/events/219273102/"
   buyButtonText: "Acheter maintenant"
