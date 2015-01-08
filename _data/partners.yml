@@ -11,3 +11,4 @@
   group: "Silver sponsors"
   elements:
     - {name: "Xebia", description: "Xebia France", link: "http://www.xebia.fr", imageUrl: "xebia.jpg"}
+    - {name: "Webtyss", description: "Webtyss", link: "http://www.webtyss.com", imageUrl: "webtyss.png"}
