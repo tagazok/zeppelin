@@ -38,7 +38,7 @@
   title: ""
   bio: "Mandy is a Cloud Developer Advocate at Google. Her mission in life is to make the world a better place for developers building applications for the Cloud. In the past year she has presented on Cloud at over 30 events, including Google I/O 2014, JFokus, Devoxx and Velocity. In her spare time Mandy is learning Japanese and likes to play the guitar."
   thumbnailUrl: mwaite.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MandyWaite"}
     - {name: "twitter", link: "https://twitter.com/tekgrrl"}
