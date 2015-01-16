@@ -50,9 +50,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/devfestparis2014cfp", text: "Become a speaker"}
+ - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
 rightNavigationButtons:
- - {link: "http://bit.ly/devfestparis2014cfp", text: "Become a speaker"}
+ - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +61,7 @@ eventDate: "30 janvier 2015"
 typeoutTextValues: '"", "Conference", "LiveCode", "Season", "Paris"'
 typeoutFallback: "Paris"
 heroButtons:
- - {link: "http://bit.ly/devfestparis2014cfp", text: "Become a speaker"}
+ - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
