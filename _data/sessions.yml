@@ -50,10 +50,10 @@
   complexity: "Intermédiaire"
 -
   id: 006
-  title: "«Le BigData à l'ère du Cloud»"
-  description: "Volume de données et création de valeur : le Big data est un challenge pour les entreprises. Les outils classiques de gestion de data warehouse ne suffisent plus, il faut changer d'ère et passer à l'ère du Cloud.<br />La session sera illustrée avec Google Pub/Sub, Dataflow, BigQuery et Prediction API."
+  title: "Tests étendus pour contruire des applications Android robustes, avec Genymotion"
+  description: "Les application Android sont de plus en riches. Les tests qualités deviennent donc de plus en plus primordiaux et il est important de qu'ils soient les plus complets possibles.<br /><br />Durant cette session nous vous présenterons comment il est facile d'utiliser Genymotion, ses APIs Java (pour les tests unitaires), et ses outils de contrôle scriptables (en ligne de commande et via Gradle) pour améliorer vos tests et votre système d'intégration continue."
   subtype: présentation
-  speakers: [3]
+  speakers: [10]
   language: fr
   complexity: "Intermédiaire"
 -
