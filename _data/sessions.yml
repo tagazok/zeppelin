@@ -15,7 +15,7 @@
   subtype: présentation
   speakers: [1]
   language: fr
-  complexity: "Débutant"
+  complexity: "débutant"
 -
   id: 002
   title: "Docker in the cloud with diamonds"
@@ -23,7 +23,7 @@
   subtype: présentation
   speakers: [2]
   language: fr
-  complexity: "Débutant"
+  complexity: "débutant"
 -
   id: 003
   title: "The Dart side of disruption"
@@ -31,7 +31,7 @@
   subtype: présentation
   speakers: [7,8]
   language: fr
-  complexity: "Débutant"
+  complexity: "débutant"
 -
   id: 004
   title: "Introduction to Google Apps Script"
@@ -39,7 +39,7 @@
   subtype: présentation
   speakers: [5]
   language: fr
-  complexity: "Beginner"
+  complexity: "débutant"
 -
   id: 005
   title: "Flexbox Révolution"
@@ -47,7 +47,7 @@
   subtype: keynote
   speakers: [9]
   language: fr
-  complexity: "Intermédiaire"
+  complexity: "intermédiaire"
 -
   id: 006
   title: "Tests étendus pour contruire des applications Android robustes, avec Genymotion"
@@ -55,7 +55,7 @@
   subtype: présentation
   speakers: [4]
   language: fr
-  complexity: "Intermédiaire"
+  complexity: "intermédiaire"
 -
   id: 007
   title: "Developing for Android TV and the Nexus Player"
@@ -63,7 +63,7 @@
   subtype: présentation
   speakers: [6]
   language: fr
-  complexity: "Intermédiaire"
+  complexity: "intermédiaire"
 -
   id: 008
   title: "From Docker To Kubernetes: A Developer's Guide To Containers"
@@ -71,4 +71,52 @@
   subtype: présentation
   speakers: [3]
   language: en
-  complexity: "Intermédiaire"
+  complexity: "intermédiaire"
+-
+  id: 009
+  title: "Révolutionnons le partage d’informations dans le browser avec WebRTC !"
+  description: "Avez déjà rêvé de faire une visio avec votre grand mère, elle sur son smartphone et vous installés dans votre canapé avec votre ordinateur portable. Le problème : elle n'a pas Skype, pas de compte Google et elle ne connait pas Facetime ? Et si votre navigateur était la solution ! Vous pourrez même lui partager les photos de votre petite dernière. Vous l'aurez compris, l'objectif de cette session est de présenter ce qu'est le WebRTC et de comprendre ce qui ce cache derrière. Vous verrez que WebRTC ne s’arrête pas non plus qu’à la visio ;)"
+  subtype: présentation
+  speakers: [10]
+  language: fr
+  complexity: "intermédiaire"
+-
+  id: 010
+  title: "WebGL meets Google Maps and Street View"
+  description: "Since the arrival of modern browser and webGL support, it has been more and more common to integrate large set of data in two or three dimensions without having so much as performance issues. Librairies like Three.js or similars make it particularly easy to quickly implement 3D models into a browser experiment. During this talk, I will show you how to integrate WebGL scenes directly inside layers of Google Maps and Street View to produce a unique, fluid and customized user experience. Inside Google Maps : large 2D assets of points of polygons Inside Street View : 3D models"
+  subtype: présentation
+  speakers: [11]
+  language: en
+  complexity: "intermédiaire"
+-
+  id: 011
+  title: "Online Gaming: Traps and Tricks"
+  description: "Building a successful online gaming experience can be quite tricky. This talk presents the issues we faced at Days of Wonder with our turn-based games Ticket to Ride and Small World, and how we resolved them. As a result, Ticket to Ride has enjoyed a new online game every 5 seconds on average for the past 4 years. Topics covered: Critical Mass, Rage Quit, Bot Hot-Swapping, Synchronous vs Asynchronous, Game Creation, Mobile-specific Issues, etc. Real-life numbers will be presented and commented. This talk is about design, not code. It is intended to people interested in games, and more specifically to the Indie Developer who wonders if it would be a good idea to make a multi-player version of his/her game."
+  subtype: présentation
+  speakers: [12]
+  language: en
+  complexity: "débutant"
+-
+  id: 012
+  title: "Material Design / LumX"
+  description: "We'll begin with a short presentation of Material Design, the new Google approach in terms of user experience. We'll then present LumX, our AngularJS framework following the Material Design guidelines in a pixel perfect way. We'll end with a CodeLab by using LumX to build a full Material Design interface."
+  subtype: présentation
+  speakers: [13]
+  language: fr
+  complexity: "intermédiaire"
+-
+  id: 013
+  title: "Developper pour le Google Apps Marketplace"
+  description: "Le Google Apps marketplace vous permet de publier des applications tierces à destination des utilisateurs de Google Apps. En tant que developpeur je vous propose de voir comment intégrer et publier votre application sur le marketplace. Comment publier votre application sur le Google Apps Marketplace ? Quelles sont les bonnes pratiques à mettre en place pour s'y intégrer parfaitement ? Comment se conformer aux principes d’authentification du marketplace ? A partir d’un exemple concret je vous montrerai comment adapter votre application pour le marketplace."
+  subtype: présentation
+  speakers: [14]
+  language: fr
+  complexity: "intermédiaire"
+-
+  id: 014
+  title: "Introduction aux Google Glass"
+  description: "Cette conférence est une introduction sur les Google Glass et couvrira d'abord ce que sont les Glass, comment elles fonctionnent et ce qu'on peut faire avec. On parlera ensuite des différentes méthodes de programmation sur Glass (Mirror API, GDK, Wearscript...) On terminera par des exemples d'applications, une revue de l'actualité des Glass (rumeurs, CES...) et enfin un retour d'expérience en tant que Glass Explorer et développeur depuis plus de 18 mois."
+  subtype: présentation
+  speakers: [15]
+  language: fr
+  complexity: "débutant"

@@ -117,3 +117,80 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/goetter"}
+-
+  id: 10
+  name: "Jean-François"
+  surname: "Garreau"
+  company: "SQLI"
+  title: ""
+  bio: "Développeur depuis maintenant 10 ans. Depuis maintenant 2 ans je m’intéresse plus en profondeur au Web avec des sujets comme AngularJS / WebRTC / WebSockets. Je me spécialise aussi dans les sujets innovants et les sujets type Internet Of Things."
+  thumbnailUrl: jgarreau.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/jefbinomed"}
+    - {name: "google-plus", link: "https://plus.google.com/+JeanFrancoisGarreau"}
+    - {name: "github", link: "https://github.com/jefBinomed"}
+    - {name: "site", link: "http://jef.binomed.fr"}
+-
+  id: 11
+  name: "Simon"
+  surname: "Lebrun"
+  company: "gPartner by DevoTeam"
+  title: ""
+  bio: "I am a Google passionate. It has been 3 years that I have been working for gPartner to ensure the migration of the biggest Google Apps for Work clients in Europe. I am also the technical leader of the Google Maps and Digital Lab of gPartner. Our goal is to build projects around Google environments (like Maps, Street View, CardBoard, Glass..)"
+  thumbnailUrl: slebrun.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+SimonLebrungPartner"}
+-
+  id: 12
+  name: "Yann"
+  surname: "Corno"
+  company: "Days of Wonder"
+  title: "CTO"
+  bio: "After a successful entrepreneur experience in Silicon Valley during the 90's as co-founder of 3D software maker Ray Dream, in 2002 Yann Corno co-founded board and online games publisher Days of Wonder. Yann drives all of the company’s digital games development on many target platforms: Web, iOS, Android, Mac OS X, Windows and Linux."
+  thumbnailUrl: ycorno.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/days_of_wonder"}
+    - {name: "facebook", link: "https://www.facebook.com/daysofwonder"}
+    - {name: "site", link: "http://www.daysofwonder.com"}
+-
+  id: 13
+  name: "Matthias"
+  surname: "Manoukian"
+  company: "LumApps"
+  title:
+  bio: "I'm a creative front-end developper and i'm in charge of UX/UI in LumApps. I love building beautiful web interfaces, always trying to find the best way to make user life easier."
+  thumbnailUrl:
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/lumapps"}
+    - {name: "google-plus", link: "https://www.facebook.com/+LumApps"}
+    - {name: "site", link: "http://blog.lumapps.com"}
+-
+  id: 14
+  name: "Corentin"
+  surname: "Leclerc"
+  company: "Cirruseo"
+  title:
+  bio: "Je bosse sur les technos Google pour des grands comptes depuis 2008. Je conçois des infras Cloud et développe des produits chez Cirruseo depuis 2011."
+  thumbnailUrl: cleclerc.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/corentin_l"}
+    - {name: "google-plus", link: "https://www.facebook.com/+CorentinLeclerc"}
+    - {name: "site", link: "http://www.cirruseo.com/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/corentinl"}
+-
+  id: 15
+  name: "Alain"
+  surname: "Regnier"
+  company: "Alto Labs"
+  title: "CTO"
+  bio: "Alain Regnier est Architecte Technique et Entrepreneur et a passé 10 ans dans la Silicon Valley. Premier #GlassExplorer en France depuis mai 2013, il est aujourd'hui le spécialiste en France des Google Glass. Il fait du consulting et développe des applications pour Google Glass et travaille également autour des Objets Connectés et de Twitter."
+  thumbnailUrl: aregnier.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/altolabs"}
+    - {name: "google-plus", link: "https://www.facebook.com/+AlainRegnier"}
