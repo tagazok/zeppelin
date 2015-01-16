@@ -1,5 +1,5 @@
 -
-  id: 3
+  id: 1
   name: "Didier"
   surname: "Girard"
   company: "SFEIR"
@@ -13,7 +13,7 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+DidierGirard"}
     - {name: "twitter", link: "https://twitter.com/DidierGirard"}
 -
-  id: 4
+  id: 2
   name: "David"
   surname: "Gageot"
   company: ""
@@ -29,18 +29,37 @@
     - {name: "github", link: "https://github.com/dgageot"}
     - {name: "site", link: "http:/javabien.net"}
 -
-  id: 5
-  name: "Guillaume"
-  surname: "Girou"
-  company: "SFEIR"
+  id: 3
+  name: "Mandy"
+  surname: "Waite"
+  company: "Google"
+  ribbon:
+    - {abbr: "Googler", title: "Cloud Developer Advocate", url: "https://cloud.google.com/docs/"}
   title: ""
-  bio: "Guillaume Girou est consultant chez Sfeir et co-anime la page Google+ sur Dart. Fort de cinq ans d’expérience dans le développement, il a un parcours atypique passant du .Net à Java/GWT, Scala et finalement à Dart pour son plaisir ! Avec Nicolas, il a présenté à plusieurs reprises le langage Dart lors de JUG, GDG et CodeLabs."
-  thumbnailUrl: ggirou.jpg
+  bio: "Mandy is a Cloud Developer Advocate at Google. Her mission in life is to make the world a better place for developers building applications for the Cloud. In the past year she has presented on Cloud at over 30 events, including Google I/O 2014, JFokus, Devoxx and Velocity. In her spare time Mandy is learning Japanese and likes to play the guitar."
+  thumbnailUrl: mwaite.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MandyWaite"}
+    - {name: "twitter", link: "https://twitter.com/tekgrrl"}
+    - {name: "github", link: "https://github.com/Tekgrrl"}
+-
+  id: 4
+  name: "Eyal"
+  surname: "Lezmy"
+  company: "Genymobile"
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  title: ""
+  bio: "- Software Engineer at Genymobile,<br />- Treasurer at the Paris Android User Group<br /><br />- Google Developer Expert Android<br />Working on Android since 2009. After several R&D projects at french internet providers, Samsung in the Android B2B team, and then as Android set-top box developer for an hotel chain, I'm currently working on Genymotion, a fast emulator."
+  thumbnailUrl: elezmy.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomainVialard-public"}
+    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY/"}
+    - {name: "twitter", link: "https://twitter.com/Eyal_Lezmy"}
+    - {name: "site", link: "http://eyal.fr"}
 -
-  id: 6
+  id: 5
   name: "Romain"
   surname: "Vialard"
   company: "Revevol"
@@ -54,7 +73,32 @@
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 -
+  id: 6
+  name: "Xavier"
+  surname: "Hallade"
+  company: "Intel"
+  title: ""
+  bio: "Ingénieur logiciel chez Intel France, en charge d'aider les développeurs d'Applications et librairies Android à améliorer le support des architectures x86(_64) et autres technologies développées par Intel."
+  thumbnailUrl: xhallade.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+XavierHallade"}
+    - {name: "twitter", link: "https://twitter.com/ph0b"}
+    - {name: "github", link: "https://github.com/ph0b"}
+    - {name: "site", link: "https://ph0b.com"}
+-
   id: 7
+  name: "Guillaume"
+  surname: "Girou"
+  company: "SFEIR"
+  title: ""
+  bio: "Guillaume Girou est consultant chez Sfeir et co-anime la page Google+ sur Dart. Fort de cinq ans d’expérience dans le développement, il a un parcours atypique passant du .Net à Java/GWT, Scala et finalement à Dart pour son plaisir ! Avec Nicolas, il a présenté à plusieurs reprises le langage Dart lors de JUG, GDG et CodeLabs."
+  thumbnailUrl: ggirou.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+RomainVialard-public"}
+-
+  id: 8
   name: "Nicolas"
   surname: "François"
   company: "SFEIR"
@@ -73,45 +117,3 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/goetter"}
--
-  id: 10
-  name: "Eyal"
-  surname: "Lezmy"
-  company: "Genymobile"
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  title: ""
-  bio: "- Software Engineer at Genymobile,<br />- Treasurer at the Paris Android User Group<br /><br />- Google Developer Expert Android<br />Working on Android since 2009. After several R&D projects at french internet providers, Samsung in the Android B2B team, and then as Android set-top box developer for an hotel chain, I'm currently working on Genymotion, a fast emulator."
-  thumbnailUrl: elezmy.jpg
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY/"}
-    - {name: "twitter", link: "https://twitter.com/Eyal_Lezmy"}
-    - {name: "site", link: "http://eyal.fr"}
--
-  id: 11
-  name: "Xavier"
-  surname: "Hallade"
-  company: "Intel"
-  title: ""
-  bio: "Ingénieur logiciel chez Intel France, en charge d'aider les développeurs d'Applications et librairies Android à améliorer le support des architectures x86(_64) et autres technologies développées par Intel."
-  thumbnailUrl: xhallade.jpg
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+XavierHallade"}
-    - {name: "twitter", link: "https://twitter.com/ph0b"}
-    - {name: "github", link: "https://github.com/ph0b"}
-    - {name: "site", link: "https://ph0b.com"}
--
-  id: 12
-  name: "Mandy"
-  surname: "Waite"
-  company: "Google"
-  title: ""
-  bio: "Mandy is a Cloud Developer Advocate at Google. Her mission in life is to make the world a better place for developers building applications for the Cloud. In the past year she has presented on Cloud at over 30 events, including Google I/O 2014, JFokus, Devoxx and Velocity. In her spare time Mandy is learning Japanese and likes to play the guitar."
-  thumbnailUrl: mwaite.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+MandyWaite"}
-    - {name: "twitter", link: "https://twitter.com/tekgrrl"}
-    - {name: "github", link: "https://github.com/Tekgrrl"}

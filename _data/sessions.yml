@@ -13,7 +13,7 @@
   title: "Machine learning et régulation numérique"
   description: "Le machine learning est la science qui permet à un algorithme d’apprendre sans avoir été explicitement programmé pour cela. Elle est utilisée par les acteurs de la nouvelle économie pour le traitement de gros volumes de données, dans la traduction automatique, la reconnaissance de la parole, la classification de consommateur, la construction de réputation, ou la prévision des trafics. C’est la \"régulation numérique\".<br /><br />Nous parlerons des champs d’application du machine learning par les gros acteurs du numérique, de ses fondements mathématiques, des grands familles d’algorithmes et des outils disponibles pour mettre en pratique.<br /><br/>Découvrez les bases pour comprendre cette science et mesurer le potentiel des possibilités de son utilisation."
   subtype: présentation
-  speakers: [3]
+  speakers: [1]
   language: fr
   complexity: "Débutant"
 -
@@ -21,7 +21,7 @@
   title: "Docker in the cloud with diamonds"
   description: "On parle beaucoup de Docker en ce moment. Je vais tenter de vous expliquer comment fonctionne Docker comme j'aurais aimé qu'on me l'explique.<br /><br />Nous allons apprendre à prendre en main Docker pour packager une application web java 8, découpée en plusieurs conteneurs, que nous déploierons sur la Google Cloud Platform en utilisant Compute Engine."
   subtype: présentation
-  speakers: [4]
+  speakers: [2]
   language: fr
   complexity: "Débutant"
 -
@@ -29,7 +29,7 @@
   title: "The Dart side of disruption"
   description: "Cette session est l’occasion d’apprendre les technologies web innovantes, le langage Dart et la librairie Polymer.<br />Dart permet de construire des applications web modernes avec un nouveau langage, des bibliothèques de base et des outils comme un gestionnaire de paquets, un éditeur et un compilateur vers JavaScript.<br /><br />Polymer est une librairie émergente permettant de créer des web components basés sur les nouveaux standards HTML5.<br /><br /Après une rapide présentation vous commencerez par créer un premier programme en pure Dart puis une application qui tue avec Polymer.dart."
   subtype: présentation
-  speakers: [5,7]
+  speakers: [7,8]
   language: fr
   complexity: "Débutant"
 -
@@ -37,8 +37,8 @@
   title: "Introduction to Google Apps Script"
   description: "Do more. With Google.<br />With Apps Script, you can create add-ons for Google Sheets, Docs, or Forms, automate your workflow, integrate with external APIs, and more.<br />During this talk, you will discover how easy it is to harness the power of Apps Script to build useful apps."
   subtype: présentation
-  speakers: [6]
-  language: en
+  speakers: [5]
+  language: fr
   complexity: "Beginner"
 -
   id: 005
@@ -53,7 +53,7 @@
   title: "Tests étendus pour contruire des applications Android robustes, avec Genymotion"
   description: "Les application Android sont de plus en riches. Les tests qualités deviennent donc de plus en plus primordiaux et il est important de qu'ils soient les plus complets possibles.<br /><br />Durant cette session nous vous présenterons comment il est facile d'utiliser Genymotion, ses APIs Java (pour les tests unitaires), et ses outils de contrôle scriptables (en ligne de commande et via Gradle) pour améliorer vos tests et votre système d'intégration continue."
   subtype: présentation
-  speakers: [10]
+  speakers: [4]
   language: fr
   complexity: "Intermédiaire"
 -
@@ -61,7 +61,7 @@
   title: "Developing for Android TV and the Nexus Player"
   description: "The Nexus Player is based on an Intel SOC; discover what does it imply for existing apps and libs, like with any other Intel-based Android devices.<br/>Learn how you can develop a new application or add Android TV support into an existing one, and correctly handle its publication on Google Play."
   subtype: présentation
-  speakers: [11]
+  speakers: [6]
   language: fr
   complexity: "Intermédiaire"
 -
@@ -69,6 +69,6 @@
   title: "From Docker To Kubernetes: A Developer's Guide To Containers"
   description: "Everyone is talking about Containers, but mostly in the context of how they work and not why and when they are useful or how to apply them to your own often complex and unique Use Cases. In this session we'll start by looking at how Docker works by manually creating a simple guestbook application using Docker Containers running Redis and PHP.  We'll then use the same application to show how you can use Kubernetes and Google Container Engine to create a cluster of nodes, declare to that cluster what you expect it to do, and then have the cluster assign resources as needed, run your work, recover from failures, and scale easily."
   subtype: présentation
-  speakers: [12]
+  speakers: [3]
   language: en
   complexity: "Intermédiaire"
