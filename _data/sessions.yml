@@ -59,7 +59,7 @@
 -
   id: 007
   title: "Developing for Android TV and the Nexus Player"
-  description: ""The Nexus Player is based on an Intel SOC; discover what does it imply for existing apps and libs, like with any other Intel-based Android devices.<br/>Learn how you can develop a new application or add Android TV support into an existing one, and correctly handle its publication on Google Play.""
+  description: "The Nexus Player is based on an Intel SOC; discover what does it imply for existing apps and libs, like with any other Intel-based Android devices.<br/>Learn how you can develop a new application or add Android TV support into an existing one, and correctly handle its publication on Google Play."
   subtype: présentation
   speakers: [11]
   language: fr
