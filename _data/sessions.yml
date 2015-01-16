@@ -58,9 +58,9 @@
   complexity: "Intermédiaire"
 -
   id: 007
-  title: "Tests étendus pour contruire des applications Android robustes, avec Genymotion"
-  description: "Les application Android sont de plus en riches. Les tests qualités deviennent donc de plus en plus primordiaux et il est important de qu'ils soient les plus complets possibles.<br /><br />Durant cette session nous vous présenterons comment il est facile d'utiliser Genymotion, ses APIs Java (pour les tests unitaires), et ses outils de contrôle scriptables (en ligne de commande et via Gradle) pour améliorer vos tests et votre système d'intégration continue."
+  title: "Developing for Android TV and the Nexus Player"
+  description: ""The Nexus Player is based on an Intel SOC; discover what does it imply for existing apps and libs, like with any other Intel-based Android devices.<br/>Learn how you can develop a new application or add Android TV support into an existing one, and correctly handle its publication on Google Play.""
   subtype: présentation
-  speakers: [10]
+  speakers: [11]
   language: fr
   complexity: "Intermédiaire"
