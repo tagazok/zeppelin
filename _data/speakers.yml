@@ -102,3 +102,16 @@
     - {name: "twitter", link: "https://twitter.com/ph0b"}
     - {name: "github", link: "https://github.com/ph0b"}
     - {name: "site", link: "https://ph0b.com"}
+-
+  id: 12
+  name: "Mandy"
+  surname: "Waite"
+  company: "Google"
+  title: ""
+  bio: "Mandy is a Cloud Developer Advocate at Google. Her mission in life is to make the world a better place for developers building applications for the Cloud. In the past year she has presented on Cloud at over 30 events, including Google I/O 2014, JFokus, Devoxx and Velocity. In her spare time Mandy is learning Japanese and likes to play the guitar."
+  thumbnailUrl: mwaite.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MandyWaite"}
+    - {name: "twitter", link: "https://twitter.com/tekgrrl"}
+    - {name: "github", link: "https://github.com/Tekgrrl"}
