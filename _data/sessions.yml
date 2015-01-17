@@ -114,7 +114,7 @@
   complexity: "intermédiaire"
 -
   id: 014
-  title: "Introduction aux Google Glass"
+  title: "Google Glass: développement et applications"
   description: "Cette conférence est une introduction sur les Google Glass et couvrira d'abord ce que sont les Glass, comment elles fonctionnent et ce qu'on peut faire avec. On parlera ensuite des différentes méthodes de programmation sur Glass (Mirror API, GDK, Wearscript...) On terminera par des exemples d'applications, une revue de l'actualité des Glass (rumeurs, CES...) et enfin un retour d'expérience en tant que Glass Explorer et développeur depuis plus de 18 mois."
   subtype: présentation
   speakers: [15]
