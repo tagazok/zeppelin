@@ -44,6 +44,19 @@
     - {name: "twitter", link: "https://twitter.com/tekgrrl"}
     - {name: "github", link: "https://github.com/Tekgrrl"}
 -
+  id: 17
+  name: "Martin"
+  surname: "Görner"
+  company: "Google"
+  ribbon:
+    - {abbr: "Googler", title: "Google Developer Relations", url: "https://developers.google.com"}
+  title: "Cloud Solution Architect - Google Developer Expert"
+  bio: "Martin is passionate about science and technology. He graduated from Mines Paris Tech and after a short stay at ST Microlectronics he spent the next 11 years shaping the nascent eBook market, starting with the Mobipocket startup, which later became the Amazon Kindle. He works at Google since 2011 and now focuses on entrepreneurship outreach."
+  thumbnailUrl: mgorner.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MartinGorner "}
+-
   id: 4
   name: "Eyal"
   surname: "Lezmy"
