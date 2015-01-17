@@ -55,7 +55,7 @@
   thumbnailUrl: mgorner.jpg
   rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MartinGorner "}
+    - {name: "google-plus", link: "https://plus.google.com/+MartinGorner"}
 -
   id: 4
   name: "Eyal"
@@ -71,6 +71,22 @@
     - {name: "google-plus", link: "https://plus.google.com/+EyalLEZMY/"}
     - {name: "twitter", link: "https://twitter.com/Eyal_Lezmy"}
     - {name: "site", link: "http://eyal.fr"}
+-
+  id: 17
+  name: "Thierry"
+  surname: "Chatel"
+  company: "MethoTIC Conseil"
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  bio: "Thierry Chatel est consultant indépendant et formateur AngularJS.<br/><br/>Précurseur du framework AngularJS en France, il réalise des audits d’applications, de l’accompagnement technique, et a déjà animé plus de 40 formations à AngularJS pour des entreprises de toutes tailles, des PME aux grands comptes."
+  title: ""
+  thumbnailUrl: tchatel.png
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+ThierryChatel/"}
+    - {name: "twitter", link: "https://twitter.com/ThierryChatel"}
+    - {name: "github", link: "https://github.com/tchatel"}
+    - {name: "blog", link: "http://www.frangular.com/"}
 -
   id: 5
   name: "Romain"

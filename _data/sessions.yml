@@ -136,3 +136,11 @@
   speakers: [17]
   language: fr
   complexity: "intermédiaire"
+-
+  id: 017
+  title: "AngularJS 2.0… et avant ?"
+  description: "L’annonce de la future version 2.0 d’AngularJS a dévoilé des changements assez radicaux dans le framework, ce qui a suscité bien des questions et des remous.<br/><br/>Quelles sont les échéances et les changements prévus ? S’agit-il toujours du même framework, ou de quelque chose de complètement nouveau ? Pourquoi le modifier à ce point alors qu’il connaît un grand succès ? Est-ce encore pertinent de démarrer un projet avec AngularJS 1.3 aujourd’hui ? Comment se préparer à l’arrivée de la version 2.0 ?<br/><br/>Cette session sera l’occasion d’expliquer la vision derrière AngularJS première et deuxième version, et de répondre aux questions et aux inquiétudes."
+  subtype: présentation
+  speakers: [18]
+  language: fr
+  complexity: "débutant"
