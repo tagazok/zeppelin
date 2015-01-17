@@ -209,18 +209,3 @@
   social:
     - {name: "twitter", link: "https://twitter.com/altolabs"}
     - {name: "google-plus", link: "https://www.facebook.com/+AlainRegnier"}
--
-  id: 16
-  name: "Marco"
-  surname: "Tranquillin"
-  company: "Revevol Italia"
-  title: "Cloud Solution Architect - Google Developer Expert"
-  bio: "I am a computer engineer with a deep passion for technology.<br/>Since 2012, when I joined Revevol, I have the opportunity to work daily with Google cloud technologies and today I am helping companies in embracing cloud technologies and in realizing solutions running on top of the Google Cloud Platform."
-  thumbnailUrl: aregnier.png
-  rockstar: false
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/MrTranqui"}
-    - {name: "google-plus", link: "https://www.facebook.com/+MarcoTranquillin "}
-    - {name: "github", link: "https://github.com/marco-tranquillin"}
