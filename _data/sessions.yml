@@ -122,7 +122,7 @@
   complexity: "débutant"
 -
   id: 015
-  title: "Boost your AppEngine app using ManagedVMs technology"
+  title: "Boost your App Engine app using Managed VMs technology"
   description: "Google AppEngine is a marvellous backend for modern and scalable application. It is a perfect solution also for GCP services orchestration. What about if we boost its potential using a Managed Google Compute Engine machine? We can overcome limitations provided by the platform (e.g. Java classes blacklist) and also integrate solution written using a compiled language.<br/><br/>In this session we will see how to integrate a web solution with a tool written in C++. The tool, called YouSketch, is available here: http://gcp-dev-conf-gce-demo.appspot.com"
   subtype: présentation
   speakers: [16]
