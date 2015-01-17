@@ -144,3 +144,11 @@
   speakers: [18]
   language: fr
   complexity: "débutant"
+-
+  id: 018
+  title: "Polymer en production : On a osé !"
+  description: "Nous sommes à ma connaissance parmi les 1ers à avoir osé poussé la technologie Polymer en Production à destination du grand public :<br/><br/>http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html<br/><br/>Nous démarrerons par une intro de la techno avec quelques exemples,<br/>puis nous rentrerons dans le vif du sujet avec un retour d'expérience complet sur la mise en production de Polymer."
+  subtype: présentation
+  speakers: [19]
+  language: fr
+  complexity: "débutant"
