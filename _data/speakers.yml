@@ -247,7 +247,7 @@
   company: "LumApps"
   title:
   bio: "I'm a creative front-end developper and i'm in charge of UX/UI in LumApps. I love building beautiful web interfaces, always trying to find the best way to make user life easier."
-  thumbnailUrl:
+  thumbnailUrl: mmanoukian.jpg
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/lumapps"}
