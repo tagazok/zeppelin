@@ -164,6 +164,19 @@
   thumbnailUrl: nfrancois.jpg
   rockstar: false
 -
+  id: 22
+  name: "Cyril"
+  surname: "Balit"
+  company: "Sfeir"
+  title: "RIA Architect"
+  bio: "Cyril Balit est architecte RIA dans la société Sfeir. Il encadre une équipe de développeurs frontend spécialisés dans le développement d’applications RIA (Node, Angular, Backbone) et les problématiques d’industrialisation (usine de développement, intégration continue, cloud)"
+  thumbnailUrl: cbalit.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/cbalit"}
+    - {name: "github", link: "https://github.com/cbalit"}
+    - {name: "blog", link: "http://www.itaware.eu/"}
+-
   id: 9
   name: "Raphaël"
   surname: "Goetter"
