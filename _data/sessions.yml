@@ -160,3 +160,11 @@
   speakers: [20]
   language: fr
   complexity: "intermédiaire"
+-
+  id: 020
+  title: "10 trucs que j'ai appris en lisant le code source de Chrome OS"
+  description: "Cette session est l'occasion pour vous d'apprendre quelques trucs et astuces sur Chrome et Chrome OS et de vous rendre compte que la meilleure chose à faire quand vous avez une question est de plonger directement dans le code source de son système d'exploitation."
+  subtype: présentation
+  speakers: [21]
+  language: fr
+  complexity: "débutant"

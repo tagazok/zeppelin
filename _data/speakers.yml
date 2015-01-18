@@ -57,6 +57,19 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MartinGorner"}
 -
+  id: 21
+  name: "François"
+  surname: "Beaufort"
+  company: "Google"
+  ribbon:
+    - {abbr: "Googler", title: "Chromium Evangelist", url: "https://developers.google.com"}
+  title: "Chromium Evangelist"
+  bio: "François travaille à Google sur le projet Chromium et t'aime énormément."
+  thumbnailUrl: fbeaufort.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+FrancoisBeaufort"}
+-
   id: 4
   name: "Eyal"
   surname: "Lezmy"
