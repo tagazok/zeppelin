@@ -6,8 +6,18 @@
 -
   id: 503
   title: "Pause déjeuner"
-  place: "Dining room"
   service: true
+-
+  id: 100
+  title: "Accueil"
+-
+  id: 101
+  title: "Keynote"
+  place: "Amphi"
+-
+  id: 301
+  title: "Session de clôture"
+  place: "Amphi"
 -
   id: 001
   title: "Machine learning et régulation numérique"
