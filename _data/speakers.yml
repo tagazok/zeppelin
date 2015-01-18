@@ -99,7 +99,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+ThierryChatel/"}
     - {name: "twitter", link: "https://twitter.com/ThierryChatel"}
     - {name: "github", link: "https://github.com/tchatel"}
-    - {name: "blog", link: "http://www.frangular.com/"}
+    - {name: "site", link: "http://www.frangular.com/"}
 -
   id: 5
   name: "Romain"
@@ -175,7 +175,7 @@
   social:
     - {name: "twitter", link: "https://twitter.com/cbalit"}
     - {name: "github", link: "https://github.com/cbalit"}
-    - {name: "blog", link: "http://www.itaware.eu/"}
+    - {name: "site", link: "http://www.itaware.eu/"}
 -
   id: 9
   name: "Raphaël"
