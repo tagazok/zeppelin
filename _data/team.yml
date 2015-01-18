@@ -57,7 +57,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+OlivierThomas1"}
 -
-  id: 4
+  id: 5
   name: "François"
   surname: "Bacconnet"
   title: "Organisateur"
@@ -68,3 +68,15 @@
   social:
     - {name: "google-plus", link: "http://tchoa.com/+"}
     - {name: "twitter", link: "https://twitter.com/tchoa91"}
+-
+  id: 6
+  name: "Alain"
+  surname: "Regnier"
+  title: "Organisateur"
+  thumbnailUrl: aregnier.png
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+AlainRegnier"}
+    - {name: "twitter", link: "https://twitter.com/altolabs"}
