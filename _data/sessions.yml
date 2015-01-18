@@ -34,12 +34,12 @@
   complexity: "débutant"
 -
   id: 004
-  title: "Introduction to Google Apps Script"
-  description: "Do more. With Google.<br />With Apps Script, you can create add-ons for Google Sheets, Docs, or Forms, automate your workflow, integrate with external APIs, and more.<br />During this talk, you will discover how easy it is to harness the power of Apps Script to build useful apps."
+  title: "Développer, marketer et monétiser un Google Add-on avec Apps Script"
+  description: "Développer, marketer et monétiser un Google Add-on avec Apps Script"
   subtype: présentation
   speakers: [5]
   language: fr
-  complexity: "débutant"
+  complexity: "intermédiaire"
 -
   id: 005
   title: "Flexbox Révolution"
@@ -74,7 +74,7 @@
   complexity: "intermédiaire"
 -
   id: 009
-  title: "Révolutionnons le partage d’informations dans le browser avec WebRTC !"
+  title: "WebRTC : Révolutionnons le partage d’informations dans le browser"
   description: "Avez déjà rêvé de faire une visio avec votre grand mère, elle sur son smartphone et vous installés dans votre canapé avec votre ordinateur portable. Le problème : elle n'a pas Skype, pas de compte Google et elle ne connait pas Facetime ? Et si votre navigateur était la solution ! Vous pourrez même lui partager les photos de votre petite dernière. Vous l'aurez compris, l'objectif de cette session est de présenter ce qu'est le WebRTC et de comprendre ce qui ce cache derrière. Vous verrez que WebRTC ne s’arrête pas non plus qu’à la visio ;)"
   subtype: présentation
   speakers: [10]
