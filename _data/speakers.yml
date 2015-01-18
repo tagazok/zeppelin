@@ -247,3 +247,14 @@
   title: ""
   thumbnailUrl: sweber.jpg
   rockstar: false
+-
+  id: 20
+  name: "Patrice"
+  surname: "de Saint Steban"
+  company: "Sfeir"
+  bio: "Patrice est depuis 5 ans chez SFEIR en tant que développeur sur les technologies Google en apportant son expertise aux clients sur GWT et Google App Engine."
+  title: "Développeur"
+  thumbnailUrl: pdesaintsteban.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/patoudss"}
