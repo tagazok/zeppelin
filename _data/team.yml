@@ -56,3 +56,15 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+OlivierThomas1"}
+-
+  id: 4
+  name: "François"
+  surname: "Bacconnet"
+  title: "Organisateur"
+  thumbnailUrl: fbacconnet.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "http://tchoa.com/+"}
+    - {name: "twitter", link: "https://twitter.com/tchoa91"}
