@@ -70,6 +70,19 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+FrancoisBeaufort"}
 -
+  id: 24
+  name: "Alexis"
+  surname: "Moussine-Pouchkine"
+  company: "Google"
+  bio: ""
+  title: "Developer Relations Southern Europe"
+  thumbnailUrl: amp.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+AlexisMP/"}
+    - {name: "twitter", link: "https://twitter.com/alexismp"}
+    - {name: "site", link: "https://alexismp.wordpress.com/"}
+-
   id: 4
   name: "Eyal"
   surname: "Lezmy"

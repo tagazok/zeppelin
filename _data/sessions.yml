@@ -176,3 +176,11 @@
   speakers: [22,17]
   language: fr
   complexity: "débutant"
+-
+  id: 022
+  title: "Keynote"
+  description: "Keynote"
+  subtype: présentation
+  speakers: [24]
+  language: fr
+  complexity: "débutant"
