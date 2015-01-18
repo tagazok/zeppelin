@@ -74,6 +74,8 @@
   name: "Alexis"
   surname: "Moussine-Pouchkine"
   company: "Google"
+  ribbon:
+    - {abbr: "Googler", title: "Developer Relations Southern Europe", url: "https://developers.google.com"}
   bio: ""
   title: "Developer Relations Southern Europe"
   thumbnailUrl: amp.jpg
