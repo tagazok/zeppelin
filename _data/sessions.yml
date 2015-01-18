@@ -60,12 +60,12 @@
   complexity: "intermédiaire"
 -
   id: 006
-  title: "Tests étendus pour contruire des applications Android robustes, avec Genymotion"
-  description: "Les application Android sont de plus en riches. Les tests qualités deviennent donc de plus en plus primordiaux et il est important de qu'ils soient les plus complets possibles.<br /><br />Durant cette session nous vous présenterons comment il est facile d'utiliser Genymotion, ses APIs Java (pour les tests unitaires), et ses outils de contrôle scriptables (en ligne de commande et via Gradle) pour améliorer vos tests et votre système d'intégration continue."
+  title: "Plugin Gradle, prenez le control du build !"
+  description: "Apres plusieurs semaines de pratique de Gradle vous commencez a apprivoiser la bête.<br/>Vous vous demandez maintenant comment étendre ses possibilités pour améliorer encore votre système d'intégration continue ou simplement vous faciliter la vie.<br/>Il est temps pour vous d'ajouter votre propre plugin Gradle a vos outils.<br/><br/>En prenant l'exemple d'un plugin que nous avons développé pour le projet Genymotion nous verrons ensemble a quel point il est simple de prendre le contrôle de son build !"
   subtype: présentation
   speakers: [4]
   language: fr
-  complexity: "intermédiaire"
+  complexity: "débutant"
 -
   id: 007
   title: "Developing for Android TV and the Nexus Player"
