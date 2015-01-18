@@ -157,7 +157,7 @@
   title: "GWT next step"
   description: "Cocktails des nouveautés GWT 2.7, avec une pincée de la 3.0. Autant d'ingrédients pour impulser vos prochaines applications."
   subtype: présentation
-  speakers: [20]
+  speakers: [20,23]
   language: fr
   complexity: "intermédiaire"
 -

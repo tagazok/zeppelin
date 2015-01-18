@@ -284,3 +284,14 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/patoudss"}
+-
+  id: 23
+  name: "Angélo"
+  surname: "Lima"
+  company: "Sfeir"
+  bio: "Développeur sur les technologies Google chez SFEIR depuis 2013."
+  title: "Développeur"
+  thumbnailUrl: alima.jpeg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/geminicode"}
