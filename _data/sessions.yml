@@ -171,7 +171,7 @@
 -
   id: 021
   title: "WebComponents une révolution ?"
-  description: "Les WebComponents sont sur le devant de la scène et activement soutenus par les ""majors"" du web. Mais qu'en est il réellement ?<br/>Nous verrons dans cette présentation les différentes spécifications mises en oeuvre derrière le concept de WebComponents (Shadow Dom, Custom Element ...) , le support, les polyfills, les ressources... Un aperçu global pour essayer de répondre à une question. Peut on dès maintenant les utiliser ?"
+  description: "Les WebComponents sont sur le devant de la scène et activement soutenus par les \"majors\" du web. Mais qu'en est il réellement ?<br/>Nous verrons dans cette présentation les différentes spécifications mises en oeuvre derrière le concept de WebComponents (Shadow Dom, Custom Element ...) , le support, les polyfills, les ressources... Un aperçu global pour essayer de répondre à une question. Peut on dès maintenant les utiliser ?"
   subtype: présentation
   speakers: [22,17]
   language: fr
