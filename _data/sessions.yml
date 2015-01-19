@@ -45,7 +45,7 @@
 -
   id: 004
   title: "Développer, marketer et monétiser un Google Add-on avec Apps Script"
-  description: "Développer, marketer et monétiser un Google Add-on avec Apps Script"
+  description: "En mars 2014, Google lançait la plateforme des add-ons pour sa suite bureautique en ligne (Docs, Sheets, Forms,...). Quasiment un an après, que vaut cette nouvelle marketplace ? Quelles opportunités ? Voici un retour d'expérience au travers d'un add-on monétisé à succès."
   subtype: présentation
   speakers: [5]
   language: fr
