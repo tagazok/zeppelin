@@ -1,14 +1,15 @@
 -
   group: "General sponsor"
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.fr/intl/fr/about/", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.fr/intl/fr/about/", imageUrl: "google.svg", width: "350px"}
 -
   group: "Gold sponsors"
   elements:
-    - {name: "Cirruseo", description: "Enterprise Optimization", link: "http://www.cirruseo.com/", imageUrl: "cirruseo.jpg", width: "120px"}
-    - {name: "Lumapps", description: "Google cloud platform experts", link: "http://www.lumapps.com/", imageUrl: "lumapps.jpg", width: "200px"}
+    - {name: "Cirruseo", description: "Enterprise Optimization", link: "http://www.cirruseo.com/", imageUrl: "cirruseo.jpg", width: "200px"}
+    - {name: "Lumapps", description: "Google cloud platform experts", link: "http://www.lumapps.com/", imageUrl: "lumapps.png", width: "300px"}
 -
   group: "Silver sponsors"
   elements:
-    - {name: "Xebia", description: "Xebia France", link: "http://www.xebia.fr", imageUrl: "xebia.jpg"}
-    - {name: "Webtyss", description: "Webtyss", link: "http://www.webtyss.com", imageUrl: "webtyss.png"}
+    - {name: "Webtyss", description: "Webtyss", link: "http://www.webtyss.com", imageUrl: "webtyss.png", width: "110px"}
+    - {name: "mailjet", description: "mailjet", link: "http://www.mailjet.com", imageUrl: "mailjet.png", width: "120px"}
+    - {name: "Xebia", description: "Xebia France", link: "http://www.xebia.fr", imageUrl: "xebia.jpg", width: "120px"}

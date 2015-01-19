@@ -5,4 +5,5 @@
 -
   group: "Co-organizer"
   elements:
-    - {name: "ECE", description: "ECE Paris- Ecole Centrale d'Electronique", link: "http://ece.fr", imageUrl: "ece.jpg"}
+    - {name: "ECE", description: "ECE Paris- Ecole Centrale d'Electronique", link: "http://ece.fr", imageUrl: "ece.jpg", width: "250px"}
+    - {name: "ECE", description: "iTeam", link: "http://iteam.org/", imageUrl: "iteam.png", width: "200px"}

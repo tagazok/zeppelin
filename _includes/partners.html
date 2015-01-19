@@ -7,9 +7,9 @@
             <h5>{{ organizer.group }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                <li style="margin-right: 50px">
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}" {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     </a>
                 </li>
                 {% endfor %}
@@ -20,9 +20,13 @@
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                {% if partner.group != "General sponsor" %}
+                <li style="margin-right: 50px">
+                {% else %}
+                <li style="margin-left: -150px">
+                {% endif %}
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}"{% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     </a>
                 </li>
                 {% endfor %}
