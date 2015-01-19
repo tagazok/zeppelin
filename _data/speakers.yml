@@ -310,3 +310,26 @@
   rockstar: false
   social:
     - {name: "twitter", link: "http://twitter.com/geminicode"}
+-
+  id: 25
+  name: "Florent"
+  surname: "Noël"
+  company: "Genymobile"
+  bio: "Android enthusiast and pragmatic programmer, Florent is software developer at Genymobile.<br/>Passionate about his work he often finds himself submerged into a world of zeros and ones."
+  title: "Software Engineer"
+  thumbnailUrl:
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/heb_dtc"}
+-
+  id: 26
+  name: "Sylvain"
+  surname: "Galland"
+  company: "Genymobile"
+  bio: "Sylvain is an Android Developer @Genymobile Paris. He did some talks, wrote some stuffs, open-sourced few lines of codes and worked on Android since Day 1. He loves beers, Genymotion and sharks."
+  title: "Software Engineer"
+  thumbnailUrl:
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/sylvaingaland"}
+    - {name: "google-plus", link: "https://www.facebook.com/+SylvainGaland"}

@@ -157,7 +157,7 @@
 -
   id: 018
   title: "Polymer en production : On a osé !"
-  description: "Nous sommes à ma connaissance parmi les 1ers à avoir osé poussé la technologie Polymer en Production à destination du grand public :<br/><br/>http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html<br/><br/>Nous démarrerons par une intro de la techno avec quelques exemples,<br/>puis nous rentrerons dans le vif du sujet avec un retour d'expérience complet sur la mise en production de Polymer."
+  description: "Basé sur les web components, Polymer est un nouveau framework développé par Google permettant de créer rapidement des applications web à l'aide de composants préexistants. Chez Kontest, nous avons à notre connaissance été parmi les 1ers à avoir osé poussé cette technologie en production à destination du grand public : <a href=\"http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html\">http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html</a><br/><br/>Nous démarrerons par les fondamentaux avec quelques exemples, puis nous rentrerons dans le vif du sujet avec un retour d'expérience complet sur l'implémentation de la solution. Nous partagerons ensuite nos plus belles anecdotes sur sa mise en production !"
   subtype: présentation
   speakers: [19]
   language: fr
@@ -180,8 +180,8 @@
   complexity: "débutant"
 -
   id: 021
-  title: "WebComponents une révolution ?"
-  description: "Les WebComponents sont sur le devant de la scène et activement soutenus par les \"majors\" du web. Mais qu'en est il réellement ?<br/>Nous verrons dans cette présentation les différentes spécifications mises en oeuvre derrière le concept de WebComponents (Shadow Dom, Custom Element ...) , le support, les polyfills, les ressources... Un aperçu global pour essayer de répondre à une question. Peut on dès maintenant les utiliser ?"
+  title: "Les Web Components et Polymer: une révolution ?"
+  description: "Les Web Components inaugurent une nouvelle ère de développement web, un monde dans lequel vous prenez le pouvoir avec la possibilité de créer de nouveaux composants personnalisés et encapsulables. Construit sur ces nouveaux standards, Polymer facilite l'implémentation de composants du simple bouton à une application riche complète.<br/><br/>Nous verrons dans cette présentation les différentes spécifications mises en oeuvre derrière le concept de WebComponents (Shadow Dom, Custom Element ...) ainsi que leur mise en place en utilisant Polymer"
   subtype: présentation
   speakers: [22,17]
   language: fr
@@ -194,3 +194,19 @@
   speakers: [24]
   language: fr
   complexity: "débutant"
+-
+  id: 023
+  title: "Formation BigQuery"
+  description: "Formation BigQuery."
+  subtype: formation
+  speakers: [1]
+  language: fr
+  complexity: "débutant"
+-
+  id: 024
+  title: "Android Testing Bootstrap"
+  description: "Les applications Android sont de plus en riches. Les tests qualités deviennent donc de plus en plus primordiaux et il est important qu'ils soient les plus complets possibles.<br/>Durant cette session, nous présenterons plusieurs frameworks de tests et comment les intégrer facilement au sein de vos projets Android.<br/>Nous vous présenterons egalement comment utiliser Genymotion pour aller encore plus loin et améliorer vos tests et votre système d'integration continue.<br/>---<br/>Android applications are getting richer and richer. It is more important than ever to tests them fully. However the path of Android testing isn't easy and can be scary!<br/>In this session, we will introduce several testing frameworks and how to integrate them easily into your android projects.<br/>We will also cover how Genymotion can be use to support testing efforts and especially how it can be integrated in a CI system."
+  subtype: formation
+  speakers: [25,26]
+  language: fr
+  complexity: "intermédiaire"
