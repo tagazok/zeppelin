@@ -65,7 +65,7 @@
   subtype: présentation
   speakers: [4]
   language: fr
-  complexity: "débutant"
+  complexity: "intermédiaire"
 -
   id: 007
   title: "Developing for Android TV and the Nexus Player"
