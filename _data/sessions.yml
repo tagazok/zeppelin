@@ -96,7 +96,7 @@
   description: "Since the arrival of modern browser and webGL support, it has been more and more common to integrate large set of data in two or three dimensions without having so much as performance issues. Librairies like Three.js or similars make it particularly easy to quickly implement 3D models into a browser experiment. During this talk, I will show you how to integrate WebGL scenes directly inside layers of Google Maps and Street View to produce a unique, fluid and customized user experience. Inside Google Maps : large 2D assets of points of polygons Inside Street View : 3D models"
   subtype: présentation
   speakers: [11]
-  language: en
+  language: fr
   complexity: "intermédiaire"
 -
   id: 011
