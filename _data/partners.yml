@@ -6,7 +6,8 @@
   group: "Gold sponsors"
   elements:
     - {name: "Cirruseo", description: "Enterprise Optimization", link: "http://www.cirruseo.com/", imageUrl: "cirruseo.jpg", width: "200px"}
-    - {name: "Lumapps", description: "Google cloud platform experts", link: "http://www.lumapps.com/", imageUrl: "lumapps.png", width: "300px"}
+    - {name: "Lumapps", description: "Google cloud platform experts", link: "http://www.lumapps.com/", imageUrl: "lumapps.png", width: "230px"}
+    - {name: "Sfeir", description: "Expert sur les technologies HTML5, AngularJS, Java, .Net, Infrastructure Cloud (Google)", link: "http://www.sfeir.com/", imageUrl: "sfeir.png", width: "200px"}
 -
   group: "Silver sponsors"
   elements:
