@@ -333,3 +333,12 @@
   social:
     - {name: "twitter", link: "http://twitter.com/sylvaingaland"}
     - {name: "google-plus", link: "https://www.facebook.com/+SylvainGaland"}
+-
+  id: 27
+  name: "Etienne"
+  surname: "de Dieuleveult"
+  company: "Kontest"
+  bio: "Développeur \"Full Stack\" Javascript chez Kontest depuis presque un an. J'aime le web, les nouvelles technologies et les poneys."
+  title: "Full-stack web developer at Kontest"
+  thumbnailUrl: ededieuleveult.jpg
+  rockstar: false
