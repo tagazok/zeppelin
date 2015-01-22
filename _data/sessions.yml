@@ -37,7 +37,7 @@
 -
   id: 003
   title: "The Dart side of disruption"
-  description: "Cette session est l’occasion d’apprendre les technologies web innovantes, le langage Dart et la librairie Polymer.<br />Dart permet de construire des applications web modernes avec un nouveau langage, des bibliothèques de base et des outils comme un gestionnaire de paquets, un éditeur et un compilateur vers JavaScript.<br /><br />Polymer est une librairie émergente permettant de créer des web components basés sur les nouveaux standards HTML5.<br /><br /Après une rapide présentation vous commencerez par créer un premier programme en pure Dart puis une application qui tue avec Polymer.dart."
+  description: "Attention, cette session est un codelab. Attendez-vous donc à coder ! Les participants doivent avoir un ordinateur portable avec <a href="https://www.dartlang.org/">DartEditor</a> installé.<br/><br/>Cette session est l’occasion d’apprendre les technologies web innovantes, le langage Dart et la librairie Polymer.<br />Dart permet de construire des applications web modernes avec un nouveau langage, des bibliothèques de base et des outils comme un gestionnaire de paquets, un éditeur et un compilateur vers JavaScript.<br /><br />Polymer est une librairie émergente permettant de créer des web components basés sur les nouveaux standards HTML5.<br /><br /Après une rapide présentation vous commencerez par créer un premier programme en pure Dart puis une application qui tue avec Polymer.dart."
   subtype: présentation
   speakers: [7,8]
   language: fr

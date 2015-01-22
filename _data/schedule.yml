@@ -24,13 +24,18 @@
     }
     - {
         startTime: "12:00",
+        endTime: "12:45",
+        sessionIds: [503, 404, 404, 404, 003]
+    }
+    - {
+        startTime: "12:45",
         endTime: "13:00",
         sessionIds: [503]
     }
     - {
     	startTime: "13:00",
     	endTime: "13:30",
-    	sessionIds: [404, 404, 404, 404, 023]
+    	sessionIds: [503, 404, 404, 404, 023]
     }
     - {
     	startTime: "13:30",
