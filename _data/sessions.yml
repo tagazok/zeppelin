@@ -37,7 +37,7 @@
 -
   id: 003
   title: "The Dart side of disruption"
-  description: "Attention, cette session est un codelab. Attendez-vous donc à coder ! Les participants doivent avoir un ordinateur portable avec <a href="https://www.dartlang.org/">DartEditor</a> installé.<br/><br/>Cette session est l’occasion d’apprendre les technologies web innovantes, le langage Dart et la librairie Polymer.<br />Dart permet de construire des applications web modernes avec un nouveau langage, des bibliothèques de base et des outils comme un gestionnaire de paquets, un éditeur et un compilateur vers JavaScript.<br /><br />Polymer est une librairie émergente permettant de créer des web components basés sur les nouveaux standards HTML5.<br /><br /Après une rapide présentation vous commencerez par créer un premier programme en pure Dart puis une application qui tue avec Polymer.dart."
+  description: "Attention, cette session est un codelab. Attendez-vous donc à coder ! Les participants doivent avoir un ordinateur portable avec <a href=\"https://www.dartlang.org/\">DartEditor</a> installé.<br/><br/>Cette session est l’occasion d’apprendre les technologies web innovantes, le langage Dart et la librairie Polymer.<br />Dart permet de construire des applications web modernes avec un nouveau langage, des bibliothèques de base et des outils comme un gestionnaire de paquets, un éditeur et un compilateur vers JavaScript.<br /><br />Polymer est une librairie émergente permettant de créer des web components basés sur les nouveaux standards HTML5.<br /><br /Après une rapide présentation vous commencerez par créer un premier programme en pure Dart puis une application qui tue avec Polymer.dart."
   subtype: présentation
   speakers: [7,8]
   language: fr
@@ -159,7 +159,7 @@
   title: "Polymer en production : On a osé !"
   description: "Basé sur les web components, Polymer est un nouveau framework développé par Google permettant de créer rapidement des applications web à l'aide de composants préexistants. Chez Kontest, nous avons à notre connaissance été parmi les 1ers à avoir osé poussé cette technologie en production à destination du grand public : <a href=\"http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html\">http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html</a><br/><br/>Nous démarrerons par les fondamentaux avec quelques exemples, puis nous rentrerons dans le vif du sujet avec un retour d'expérience complet sur l'implémentation de la solution. Nous partagerons ensuite nos plus belles anecdotes sur sa mise en production !"
   subtype: présentation
-  speakers: [19, 27]
+  speakers: [19]
   language: fr
   complexity: "débutant"
 -
