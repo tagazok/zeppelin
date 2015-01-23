@@ -10,7 +10,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ThibaultPouget"}
 -
-  id: 1
+  id: 2
   name: "Benjamin"
   surname: "Lacroix"
   title: "Secrétaire du GDG Paris"
@@ -23,7 +23,7 @@
     - {name: "github", link: "https://github.com/blacroix"}
     - {name: "twitter", link: "https://twitter.com/benjlacroix"}
 -
-  id: 2
+  id: 3
   name: "Olivier"
   surname: "Leplus"
   title: "Organisateur"
@@ -35,7 +35,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+olivierleplus"}
     - {name: "twitter", link: "https://twitter.com/tagazok"}
 -
-  id: 3
+  id: 1
   name: "Xavier"
   surname: "Loup"
   title: "Trésorier du GDG Paris"
