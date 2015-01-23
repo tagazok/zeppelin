@@ -10,6 +10,17 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ThibaultPouget"}
 -
+  id: 1
+  name: "Xavier"
+  surname: "Loup"
+  title: "Trésorier du GDG Paris"
+  thumbnailUrl: xloup.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+XavierLoup"}
+-
   id: 2
   name: "Benjamin"
   surname: "Lacroix"
@@ -34,17 +45,6 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+olivierleplus"}
     - {name: "twitter", link: "https://twitter.com/tagazok"}
--
-  id: 1
-  name: "Xavier"
-  surname: "Loup"
-  title: "Trésorier du GDG Paris"
-  thumbnailUrl: xloup.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+XavierLoup"}
 -
   id: 4
   name: "Olivier"
