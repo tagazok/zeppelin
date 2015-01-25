@@ -76,7 +76,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "participants", detail: "de tous horizons"}
  - {count: "20", specialCharacter: "+", info: "heures", detail: "de pure technologie Google"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "de France et au delà"}
+ - {count: "25", specialCharacter: "+", info: "speakers", detail: "de France et au delà"}
  - {count: "4", specialCharacter: "", info: "tracks en parallèle", detail: "couvrant l'univers Google"}
 
 # Latest News Block
