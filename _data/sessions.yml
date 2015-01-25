@@ -159,7 +159,7 @@
   title: "Polymer en production : On a osé !"
   description: "Basé sur les web components, Polymer est un nouveau framework développé par Google permettant de créer rapidement des applications web à l'aide de composants préexistants. Chez Kontest, nous avons à notre connaissance été parmi les 1ers à avoir osé poussé cette technologie en production à destination du grand public : <a href=\"http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html\">http://korben.info/initiation-polymer-le-nouveau-framework-web-de-google.html</a><br/><br/>Nous démarrerons par les fondamentaux avec quelques exemples, puis nous rentrerons dans le vif du sujet avec un retour d'expérience complet sur l'implémentation de la solution. Nous partagerons ensuite nos plus belles anecdotes sur sa mise en production !"
   subtype: présentation
-  speakers: [19]
+  speakers: [19,27]
   language: fr
   complexity: "débutant"
 -
