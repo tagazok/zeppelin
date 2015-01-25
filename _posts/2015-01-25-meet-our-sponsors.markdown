@@ -15,3 +15,5 @@ We now have 8 sponsors:
 Our Main and Gold sponsors will have speakers presenting Google projects and technologies.
 
 Participants will be able to meet our Gold and Silver sponsors on their booth during the event. A good opportunity to have a direct discussion with them.
+
+![DevFest Sponsors]({{ site.baseurl }}/img/posts/cod.jpg)
