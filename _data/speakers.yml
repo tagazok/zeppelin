@@ -85,6 +85,20 @@
     - {name: "twitter", link: "https://twitter.com/alexismp"}
     - {name: "site", link: "https://alexismp.wordpress.com/"}
 -
+  id: 28
+  name: "Damien"
+  surname: "Henry"
+  company: "Google"
+  ribbon:
+    - {abbr: "Googler", title: "Technical Program Manager", url: "https://www.google.com/get/cardboard/"}
+  bio: ""
+  title: "Technical Program Manager"
+  thumbnailUrl: dhenry.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/104182511428931516332/"}
+    - {name: "twitter", link: "https://twitter.com/dh7net"}
+-
   id: 4
   name: "Eyal"
   surname: "Lezmy"

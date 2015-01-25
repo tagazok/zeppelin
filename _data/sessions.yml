@@ -14,10 +14,12 @@
   id: 101
   title: "Keynote"
   place: "Amphi"
+  speakers: [24]
 -
   id: 301
   title: "Session de clôture"
   place: "Amphi"
+  speakers: [28]
 -
   id: 001
   title: "Machine learning et régulation numérique"
