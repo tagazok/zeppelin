@@ -7,6 +7,7 @@ isStaticPost: false
 We are happy to announce our latest sponsor for GDG DevFest Paris 2015: Genymobile.
 
 We now have 8 sponsors:
+
 * Main Sponsor : [Google](http://www.google.com/)
 * Gold Sponsors : [Cirruseo](http://www.cirruseo.com/), [Genymobile](http://www.genymobile.com/), [Lumapps](http://www.lumapps.com/), [SFEIR](http://www.sfeir.com/)
 * Silver Sponsors : [Mailjet](https://www.mailjet.com/), [Webtyss](http://www.webtyss.com/), [Xebia](http://xebia.com/)
