@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Sold out !"
+date:   2015-01-28 15:50:00
+isStaticPost: false
+---
+All DevFest tickets are now sold !
+We will be more than 300 technology enthusiasts for the event.
+
+We will meet the lucky ones who have been able to buy their tickets this Friday.
+If you are not able to attend, all sessions will be recorded and you will be able to watch them after the event.
+
+We also hope to see you at our Meetups we organize throughout the year and, probably, for another DevFest next year.
