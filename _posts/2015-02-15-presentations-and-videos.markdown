@@ -31,3 +31,4 @@ In the meantime, here are the slides from the various sessions:
 * <a href="https://drive.google.com/file/d/0B_4fKsULreWNYnREM2JCZ2xTVnc/view?usp=sharing">Sylvain Weber - Polymer en Production - On a osé</a>
 * <a href="https://drive.google.com/file/d/0B_4fKsULreWNMHY5emw0c1JYNU0/view?usp=sharing">Thierry Chatel - AngularJS 2.0... et avant</a>
 * <a href="https://drive.google.com/file/d/0B_4fKsULreWNTWtkbi0yN2tyaFRJbTBoYVBEVkR6M19ycktr/view?usp=sharing">Xavier Hallade - Developing for Android TV and the Nexus Player</a>
+* <a href="https://docs.google.com/file/d/0B9NvHapEX-0SRzg4eG9sN3hqVzQ">Damien Henry - Cardboard</a>
