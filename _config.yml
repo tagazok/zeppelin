@@ -49,10 +49,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
-rightNavigationButtons:
- - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
+# bottomNavigationLinks:
+# - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
+# rightNavigationButtons:
+# - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,8 +60,8 @@ heroTitle: "GDG DevFest <typeout> 2015"
 eventDate: "30 janvier 2015"
 typeoutTextValues: '"", "Conference", "LiveCode", "Season", "Paris"'
 typeoutFallback: "Paris"
-heroButtons:
- - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
+#heroButtons:
+ # - {link: "http://goo.gl/G6hdvR", text: "S'inscrire"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -77,7 +77,7 @@ statisticBlock:
  - {count: "300", specialCharacter: "+", info: "participants", detail: "de tous horizons"}
  - {count: "20", specialCharacter: "+", info: "heures", detail: "de pure technologie Google"}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: "de France et au delà"}
- - {count: "4", specialCharacter: "", info: "tracks en parallèle", detail: "couvrant l'univers Google"}
+ - {count: "5", specialCharacter: "", info: "tracks en parallèle", detail: "couvrant l'univers Google"}
 
 # Latest News Block
 latestNewsTitle: "Dernières news"
@@ -131,18 +131,18 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Tickets"
-ticketsInfo: "Votre ticket vous donne accès à toutes les conférences et au déjeuner. Le transport et le logement ne sont pas inclus"
-ticketsOffers:
- -
-  name: "Prix"
-  price: "10"
-  priceCurrency: "EUROS"
-  ticketsNumber: "300"
-  buyButtonLink: "http://www.meetup.com/gdg-paris/events/219273102/"
-  buyButtonText: "Acheter maintenant"
-  validFrom: "2014-01-25T23:59"
-  validThrough: "2015-01-25T23:59"
+#ticketsTitle: "Tickets"
+#ticketsInfo: "Votre ticket vous donne accès à toutes les conférences et au déjeuner. Le transport et le logement ne sont pas inclus"
+#ticketsOffers:
+# -
+#  name: "Prix"
+#  price: "10"
+#  priceCurrency: "EUROS"
+#  ticketsNumber: "300"
+#  buyButtonLink: "http://www.meetup.com/gdg-paris/events/219273102/"
+#  buyButtonText: "Acheter maintenant"
+#  validFrom: "2014-01-25T23:59"
+#  validThrough: "2015-01-25T23:59"
 
 # Footer
 socialLinks:
