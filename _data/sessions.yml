@@ -15,11 +15,13 @@
   title: "Keynote"
   place: "Amphi"
   speakers: [24]
+  video: "https://www.youtube.com/embed/iffBl_9qPls?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 301
   title: "Session de clôture"
   place: "Amphi"
   speakers: [28]
+  video: "https://www.youtube.com/embed/DmTo8Mn1h-c?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 001
   title: "Machine learning et régulation numérique"
@@ -28,6 +30,7 @@
   speakers: [1]
   language: fr
   complexity: "débutant"
+  video: "https://www.youtube.com/embed/QMnTiL6G9o4?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 002
   title: "Docker in the cloud with diamonds"
@@ -36,6 +39,7 @@
   speakers: [2]
   language: fr
   complexity: "débutant"
+  video: "https://www.youtube.com/embed/7bnHjKYMaQg?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 003
   title: "The Dart side of disruption"
@@ -52,6 +56,7 @@
   speakers: [5]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/698F5ROU8yg?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 005
   title: "Flexbox Révolution"
@@ -60,6 +65,7 @@
   speakers: [9]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/_JN8BVcInm4?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 006
   title: "Plugin Gradle, prenez le control du build !"
@@ -68,6 +74,7 @@
   speakers: [4]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/HIlWrIEnhQQ?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 007
   title: "Developing for Android TV and the Nexus Player"
@@ -76,6 +83,7 @@
   speakers: [6]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/9NBrJqqqMYo?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 008
   title: "From Docker To Kubernetes: A Developer's Guide To Containers"
@@ -84,6 +92,7 @@
   speakers: [3]
   language: en
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/Fvf7DzlXawk?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 009
   title: "WebRTC : Révolutionnons le partage d’informations dans le browser"
@@ -92,6 +101,7 @@
   speakers: [10]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/qMPCZQ3LJJ0?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 010
   title: "WebGL meets Google Maps and Street View"
@@ -100,6 +110,7 @@
   speakers: [11]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/Vcq6Pp6qXig?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 011
   title: "Online Gaming: Traps and Tricks"
@@ -108,6 +119,7 @@
   speakers: [12]
   language: en
   complexity: "débutant"
+  video: "https://www.youtube.com/embed/zcuLAvLdbQ0?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 012
   title: "Material Design / LumX"
@@ -116,6 +128,7 @@
   speakers: [13]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/sIyRe8eXrC8?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 013
   title: "Developper pour le Google Apps Marketplace"
@@ -124,6 +137,7 @@
   speakers: [14]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/AVSffwlYrzU?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 014
   title: "Google Glass: développement et applications"
@@ -140,6 +154,7 @@
   speakers: [16]
   language: en
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/VyuRMkHwRTo?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 016
   title: "No one at Google uses MapReduce anymore - Cloud Dataflow and the FlumeJava paper explained"
@@ -148,6 +163,7 @@
   speakers: [17]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/4Pf3v_wLli4?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 017
   title: "AngularJS 2.0… et avant ?"
@@ -180,6 +196,7 @@
   speakers: [21]
   language: fr
   complexity: "débutant"
+  video: "https://www.youtube.com/embed/0PhidFk4WtY?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
 -
   id: 021
   title: "Les Web Components et Polymer: une révolution ?"
@@ -212,3 +229,4 @@
   speakers: [25,26]
   language: fr
   complexity: "intermédiaire"
+  video: "https://www.youtube.com/embed/Djxa6Mq6FXA?list=PLjgOQrtHWokjXE5FFW3yCoowy4Y8D6nJA"
